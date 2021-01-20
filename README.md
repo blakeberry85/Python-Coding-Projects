@@ -1,1 +1,1 @@
-# Python-Coding-Projects
+Repository for all my Python projects
